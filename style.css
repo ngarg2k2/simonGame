@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(12, 12, 77);
+}
+
+.heading {
+    text-align: center;
+    margin-top: 3%;
+    font-family: cursive;
+    color: rgb(248, 190, 103);
+    font-size: 4rem;
+}
+
+#blue {
+    height: 220px;
+    width: 220px;
+    /* margin: auto; */
+    background-color: blue;
+    border-radius: 25%;
+    border: 10px black solid;
+    margin-left: 55%;
+}
+
+#red {
+    height: 220px;
+    width: 220px;
+    /* margin: auto; */
+    background-color: red;
+    border-radius: 25%;
+    border: 10px black solid;
+    margin-left: 55%;
+}
+
+#yellow {
+    height: 220px;
+    width: 220px;
+    /* margin: auto; */
+    background-color: yellow;
+    border-radius: 25%;
+    border: 10px black solid;
+    margin-left: 10%;
+}
+
+#green {
+    height: 220px;
+    width: 220px;
+    /* margin: auto; */
+    background-color: green;
+    border-radius: 25%;
+    border: 10px black solid;
+    margin-left: 10%;
+}
+
+game-over {
+    background-color: red;
+}
